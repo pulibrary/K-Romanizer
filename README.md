@@ -3,7 +3,7 @@ Korean romanization tool for libraries
 
 <img src="./HAN.jpg" style="width: 75px">
 
-[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)
+**[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)**
 - For Windows PC only
 - Latest update: 4/10/2024
 
