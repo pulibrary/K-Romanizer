@@ -13,4 +13,3 @@ Notes
  2) K-Romanizer can be used in conjunction with any Windows application.
  3) The icon 韓 was taken from 東國正韻 (Tongguk chŏngun).
 
-<input text="text" value="박 목월" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px"/>: the forename is of Hancha origin.<br>
