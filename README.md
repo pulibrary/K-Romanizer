@@ -1,7 +1,7 @@
 # K-Romanizer
 Korean romanization tool for libraries
 
-[Download (last updated 4/10/24)](https://github.com/pulibrary/K-Romanizer/releases/download/latest/K-Romanizer.exe)
+[Download (last updated 4/10/24)](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)
 
 [Practice Sheet (HTML)](http://www.princeton.edu/~hyoungl/public/K-Romanizer.html)
 
