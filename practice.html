@@ -1,0 +1,80 @@
+<title>
+Hands-on Practice of K-Romanizer.
+</title>
+<html>
+<head>
+	<style>
+		table, th, td {
+		    padding: 10px; border: 0px dotted red
+		}
+		img
+		{  border-style: none;
+		}
+		textarea {
+		   resize: none; overflow: hidden
+		}
+		.key {
+		  background-color: #e0e0e0; /* Light gray background */
+		  border: 1px solid #666;    /* Darker gray border */
+		  border-radius: 5px;       /* Slightly rounded corners */
+		  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+		  padding: 5px 10px;        /* Padding inside the key */
+		  font-family: monospace;   /* Typical keyboard font */
+		  display: inline-block;    /* Keeps the key as a single unit */
+		}
+	</style>
+</head>
+
+<body onload="form1.reset();">
+<p align="center">
+	<table>
+		<tr>
+			<td  style="font-family: calibri; font-size: 20">
+				<b><font face="Cambria" size=6>Hands-on Practice:</font></b><br>
+					&nbsp; &nbsp; &nbsp; 1. <a href="https://library.princeton.edu/eastasian/k-romanizer" target="_blank">Download</a>, unzip, and run K-Romanizer.exe.<br>
+					&nbsp; &nbsp; &nbsp; 2. Confirm that the icon <b>韓</b> is nested in the system tray area: <img src="http://www.princeton.edu/~hyoungl/public/SystemTray.png" height=30><br>
+					&nbsp; &nbsp; &nbsp; 3. Highlight the whole text in a field and press the given key combo.<br>
+					&nbsp; &nbsp; &nbsp; 4. If K-Romanizer does not work in OCLC Connexion, try to run it as administrator with a right click. <img src="http://www.princeton.edu/~hyoungl/public/RunAsAdministrator.png" height=25><br><br>
+					&nbsp; &nbsp; &nbsp; <strong><i>N.B.</i></strong> Word division has to be first done manually according to the <a href="http://www.loc.gov/catdir/cpso/romanization/korean.pdf" target="_blank">ALA-LC Korean Romanization and Word Division</a>.<br></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<form id="form1" style="font-family: calibri; font-size: 15">
+					<font size=4>
+					<b><span class="key">CTRL</span> <span class="key">SHIFT</span> <span class="key">K</span></b> to romanize <u>Korean personal names</u> in the form of Family Name + Forename (or Pseudonym)</font><br><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="박 목월" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px">: the forename is of Hancha origin.<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="김 삿갓" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px">: the pseudonym is apparently not of Hancha origin.<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="선우 휘" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px">: the forename has only one syllable.<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="신 사임당" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px">: the pseudonym has more than two syllables.<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="김 조 광수" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 200px">: the name includes two family names.<br>
+					&nbsp; &nbsp; &nbsp; Multiple personal names concatenated by comma or center dot can be romanized as a whole:<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="朴 木月· 李 箱, 김 삿갓, 鮮于 輝, 申 師任堂, 김 조 광수" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br><br>
+
+					<font size=4><b><span class="key">CTRL</span> <span class="key">ALT</span> <span class="key">K</span></b> to romanize with only the first letter of the first word in uppercase</font><br><br>
+					&nbsp; &nbsp; &nbsp; (Useful for book titles. Proper nouns, if included in the built-in dictionary, are still capitalized in the middle.)<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="함께 읽는 동 아시아 근현대사" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="세계화 와 반세계화: 21세기 한국 의 미래 를 묻는다" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="국왕 숙종, 잊혀진 창업주 태조 를 되살리다" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="國際 政治 過程 에서의 韓國 政府 와 政治 의 研究" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br><br>
+
+					<font size=4><b><span class="key">SHIFT</span> <span class="key">ALT</span> <span class="key">K</span></b> to romanize with all the first letters in uppercase</font><br><br>
+					&nbsp; &nbsp; &nbsp; (Useful for foreign names or corporate names)<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="동 아시아 도서관 협의회 한국학 자료 위원회 한국어 로마나이저 워킹 그룹" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="조지 매큔· 에드윈 라이샤워, 푸 쑹링, 무라사키 시키부" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="國立 中央 圖書館 圖書館 硏究所 古典 運營室" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br><br>
+
+					<font size=4><b><span class="key">CTRL</span> <span class="key">SHIFT</span> <span class="key">ALT</span> <span class="key">K</span></b> to romanize with no capitalization</font><br><br>
+					&nbsp; &nbsp; &nbsp; (Proper nouns, if included in the built-in dictionary, are still capitalized.)<br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="고지도 를 통해 본 전라 지명 연구" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br><br>
+
+					<font size=4><b><span class="key">CTRL</span> <span class="key">SHIFT</span> <span class="key">ALT</span> <span class="key">C</span></b> to add parenthesized Han'gŭl readings to Hancha texts</font><br><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="送人 - 鄭 知常 / 雨歇長堤草色多, 送君南浦動悲歌." style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+					&nbsp; &nbsp; &nbsp; <input text="text" value="此로써 世界萬邦에 告하야 人類平等의 大義를 克明하며" style="background:#FFFFFF; font-family: Arial Unicode MS;font-size: 16; width: 850px"><br>
+				</form>
+			</td>
+		</tr>
+	</table>
+</p>
+</body>
+</html>
