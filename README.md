@@ -9,7 +9,7 @@ Korean romanization tool for libraries
 
 [Practice Sheet (HTML)](http://www.princeton.edu/~hyoungl/public/K-Romanizer.html)
 
-As word division must be done manually, it is strongly advised that users get familiarized with the [ALA-LC Korean Romanization Table](https://www.loc.gov/catdir/cpso/romanization/korean.pdf) before using K-Romanizer. Otherwise K-Romanizer may yield inaccurate results.
+As word division must be done manually, it is strongly advised that users get familiarized with the [ALA-LC Korean Romanization Table](https://www.loc.gov/catdir/cpso/romanization/korean.pdf{:target="_blank"}) before using K-Romanizer. Otherwise K-Romanizer may yield inaccurate results.
 
 ### License
 K-Romanizer, developed by Hyoungbae Lee (Korean Studies Librarian, Princeton University) and tested for improvement by [CKM Working Group on Korean Romanizer](http://www.eastasianlib.org/ckm/subcommittees.html#workinggroup), is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
