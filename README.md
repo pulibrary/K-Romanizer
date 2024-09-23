@@ -5,7 +5,6 @@ Korean romanization tool for libraries
 
 **[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)**
 - For Windows PC only
-- Latest update: 4/10/2024
 
 [Practice Sheet (HTML)](http://www.princeton.edu/~hyoungl/public/K-Romanizer.html)
 
