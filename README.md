@@ -18,7 +18,7 @@ K-Romanizer, developed by Hyoungbae Lee (Korean Studies Librarian, Princeton Uni
  2) If K-Romanizer does not work in OCLC Connexion, try to start it by using "Run as administrator."
 
 ### Notes
- 1) K-Romanizer is a stand-alone executable and no installation is required
- 2) K-Romanizer can be used in conjunction with any Windows application.
- 3) The icon 韓 was taken from 東國正韻 (Tongguk chŏngun).
+ 1) K-Romanizer is a stand-alone executable, requiring no installation.
+ 2) It can be used in conjunction with any Windows application.
+ 3) A compatibility issue exists, and proper functionality on Windows 11 cannot be guaranteed.
 
