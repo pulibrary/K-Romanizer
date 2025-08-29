@@ -1,5 +1,5 @@
 # K-Romanizer
-**K-Romanizer will be retired in 2025 due to compatibility issues with Windows 11. No further updates will be provided. Development of K-Romanizer 2 is currently in progress.**
+**K-Romanizer will be discontinued in 2025 due to compatibility issues with Windows 11. No further updates will be provided. Development of K-Romanizer 2 is currently in progress.**
 
 <img src="./HAN.jpg" style="width: 75px">
 
