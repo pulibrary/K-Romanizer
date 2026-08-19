@@ -1,7 +1,7 @@
 # K-Romanizer 2
 
 <img src="./k2.ico" style="width: 75px">
-**[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)**
+[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)
 - For Windows PC only
 
 As word division must be done manually, it is strongly advised that users get familiarized with the [ALA-LC Korean Romanization Table](https://www.loc.gov/catdir/cpso/romanization/korean.pdf) before using K-Romanizer 2. Otherwise inaccurate results may occur.
