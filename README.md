@@ -1,7 +1,6 @@
 # K-Romanizer 2
 
 <img src="./k2.ico" style="width: 75px">
-
 **[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)**
 - For Windows PC only
 
