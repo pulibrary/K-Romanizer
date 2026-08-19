@@ -1,24 +1,19 @@
-# K-Romanizer
-**K-Romanizer will be discontinued in 2026 due to compatibility issues with Windows 11. No further updates will be provided. Development of K-Romanizer 2 is currently in progress.**
+# K-Romanizer 2
 
-<img src="./HAN.jpg" style="width: 75px">
+<img src="./k2.ico" style="width: 75px">
 
 **[Download](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer.exe)**
 - For Windows PC only
 
-[Practice Sheet (HTML)](http://www.princeton.edu/~hyoungl/public/K-Romanizer.html)
-
 As word division must be done manually, it is strongly advised that users get familiarized with the [ALA-LC Korean Romanization Table](https://www.loc.gov/catdir/cpso/romanization/korean.pdf) before using K-Romanizer. Otherwise K-Romanizer may yield inaccurate results.
 
 ### License
-K-Romanizer, developed by Hyoungbae Lee (Korean Studies Librarian, Princeton University) and tested for improvement by [CKM Working Group on Korean Romanizer](http://www.eastasianlib.org/ckm/subcommittees.html#workinggroup), is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+K-Romanizer 2 was developed by Hyoungbae Lee (Korean Studies Librarian, Princeton University) and is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### Troubleshooting
- 1) Windows gives a virus warning for any AutoIt-based application including K-Romanizer, which is a false positive. Please consult a local IT staff in order to add K-Romanizer to the safe program list on your work PC.
- 2) If K-Romanizer does not work in OCLC Connexion, try to start it by using "Run as administrator."
+K-Romanizer 2 is digitally signed by the Trustee of Princeton University. If Windows gives a virus warning, which is a false positive, please consult a local IT staff in order to add K-Romanizer 2 to the safe program list on your work PC.
 
 ### Notes
- 1) K-Romanizer is a stand-alone executable, requiring no installation.
- 2) It can be used in conjunction with any Windows application.
- 3) A compatibility issue exists, and proper functionality on Windows 11 cannot be guaranteed.
+ 1) K-Romanizer 2 is a stand-alone executable, requiring no installation.
+ 2) The internet connection is required for its dictionary file to be updated automatically.
 
