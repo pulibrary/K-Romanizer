@@ -14,7 +14,7 @@
 K-Romanizer 2 was developed by [Hyoungbae Lee](https://library.princeton.edu/about/staff-directory/hyoungbae-lee) (Korean Studies Librarian, Princeton University) and is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### Troubleshooting
-K-Romanizer 2 is digitally signed by the Trustee of Princeton University. If Windows gives a virus warning, which is a false positive, please consult local IT staff in order to add the K-Romanizer2.exe file to the safe program list on your work PC.
+K-Romanizer 2 is digitally signed by the Trustees of Princeton University. If Windows gives a virus warning, which is a false positive, please consult local IT staff in order to add the K-Romanizer2.exe file to the safe program list on your work PC.
 
 ### Notes
 - K-Romanizer 2 is a stand-alone executable, requiring no installation.
