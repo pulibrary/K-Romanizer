@@ -2,7 +2,7 @@
 
 <img src="./k2.ico" width="75">
 
-[Download Link](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe) (For Windows PC only)
+[**Download Link**](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe) (For Windows PC only)
 
 *(The program icon is custom-crafted, featuring the character* **한** *sourced directly from a facsimile of **Sŏkpo sangjŏl** and its historic **Kabinja** movable type).*
 
