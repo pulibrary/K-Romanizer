@@ -22,3 +22,12 @@ K-Romanizer 2 is digitally signed by the Trustees of Princeton University. If Wi
 
 ### User Interface
 <img src="./screenshot1.jpg">
+
+What's New in K-Romanizer 2
+- Redesigned modular romanization engine
+- ALA-LC (North American Standard) and Revised Romanization (South Korean Standard) support
+- Expanded Hancha support (~6,000 → ~20,000 characters)
+- Faster long-text processing
+- Automatic dictionary updates
+- Excel batch processing and error reporting
+- Optional AI-assisted Korean word division and Japanese romanization
