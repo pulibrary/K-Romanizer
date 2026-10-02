@@ -30,4 +30,5 @@ What's New in K-Romanizer 2
 - Faster long-text processing
 - Automatic dictionary updates
 - Excel batch processing and error reporting
+- Sanskrit romanization
 - Optional AI-assisted Korean word division and Japanese romanization
