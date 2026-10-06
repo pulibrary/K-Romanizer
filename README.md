@@ -4,6 +4,8 @@
 
 [**Download Link**](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe) (For Windows PC only)
 
+[Download Features and Practical Guide](https://github.com/pulibrary/K-Romanizer/raw/a05e40be9ef685f9ff664e6d51792c45bcc6fe1f/Features%20and%20Practical%20Guide.pdf))
+
 *(The program icon is custom-crafted, featuring the character* **한** *sourced directly from a facsimile of **Sŏkpo sangjŏl** and its historic **Kabinja** movable type).*
 
 - As word division must be done manually, it is recommended that users get familiarized with the [**ALA-LC Korean Romanization**](https://www.loc.gov/catdir/cpso/romanization/korean.pdf) before using K-Romanizer 2. Otherwise, inaccurate results may occur.
