@@ -1,13 +1,18 @@
 # K-Romanizer 2
 > A Windows-based romanization and cataloging support tool designed primarily for librarians and researchers working with Korean-language materials, with optional AI-assisted support for ALA-LC Japanese romanization.
 
-<img src="./k2.ico" width="75">
+<img src="./k2.ico" width="100">
 
 [**Download K-Romanizer 2**](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe) (Windows only)
 
 [**Features and Practical Guide**](https://github.com/pulibrary/K-Romanizer/raw/a05e40be9ef685f9ff664e6d51792c45bcc6fe1f/Features%20and%20Practical%20Guide.pdf)
 
 *The program icon is custom-crafted, featuring the character **한** sourced directly from a facsimile of **Sŏkpo sangjŏl**, printed with the historic **Kabinja** movable type.*
+
+### User Interface
+
+<img src="./screenshot1.jpg">
+
 ### Romanization Standards
 
 K-Romanizer 2 supports:
@@ -23,10 +28,6 @@ K-Romanizer 2 supports:
 1. [**Download K-Romanizer 2**](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe).
 2. Place `K-Romanizer2.exe` in a folder of your choice. No installation is required.
 3. Run the program. On first launch, K-Romanizer 2 automatically downloads the latest dictionary file. An internet connection is required for this initial download and subsequent dictionary updates.
-
-### User Interface
-
-<img src="./screenshot1.jpg">
 
 ### What's New in K-Romanizer 2
 
