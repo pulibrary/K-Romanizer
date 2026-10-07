@@ -35,8 +35,8 @@ K-Romanizer 2 supports:
 - Faster long-text processing
 - Automatic dictionary updates
 - Excel batch processing and error reporting
-- Sanskrit romanization
-- Optional AI-assisted Korean word division and Japanese romanization
+- ALA-LC Sanskrit romanization
+- Optional AI-assisted Korean word division and ALA-LC Japanese romanization
 
 ### Troubleshooting
 
