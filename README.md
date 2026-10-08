@@ -5,7 +5,7 @@
 
 [**Download K-Romanizer 2**](https://github.com/pulibrary/K-Romanizer/releases/latest/download/K-Romanizer2.exe) (Windows only)
 
-[**Features and Practical Guide**](https://github.com/pulibrary/K-Romanizer/raw/a05e40be9ef685f9ff664e6d51792c45bcc6fe1f/Features%20and%20Practical%20Guide.pdf)
+[**Features and Practical Guide**](https://github.com/pulibrary/K-Romanizer/raw/da7fe9e1ffbe5aedd79bf865f8fcf15bc3ae5ac7/Features%20and%20Practical%20Guide.pdf)
 
 *The program icon is custom-crafted, featuring the character **한** sourced directly from a facsimile of **Sŏkpo sangjŏl**, printed with the historic **Kabinja** movable type.*
 
