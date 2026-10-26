@@ -1,0 +1,4 @@
+- Added automatic update notifications.
+- Improved dictionary storage and sharing.
+- Added a new capitalization shortcut.
+- Minor bug fixes.
