@@ -1,7 +1,4 @@
 - Added automatic update notifications.
-
-- Improved dictionary storage and sharing.
-
-- Added a new capitalization shortcut.
-
-- Minor bug fixes.
+- Centralized dictionary storage in the user's AppData folder.
+- Added Ctrl+Alt+Shift+K shortcut to capitalize the first letter of selected text.
+- Moved number–counter combinations to the dictionary, eliminating the need for software updates.
