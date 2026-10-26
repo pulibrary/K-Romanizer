@@ -2,4 +2,4 @@ v. 2.0.1:
 - Added automatic update notifications.
 - Centralized dictionary storage in the user's AppData folder.
 - Added Ctrl+Alt+Shift+K shortcut to capitalize the first letter of selected text.
-- Moved number–counter combinations to the dictionary, eliminating the need for software updates.
+- Moved number–counter combinations (10년, 100개, etc.) to the dictionary, eliminating the need for software updates.
